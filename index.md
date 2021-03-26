@@ -150,6 +150,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Advaith Madhukar
 1. Afraz Khan (@mrafrazkhan)
 1. Agatha Rose
+1. Ahmed Bilal
 1. Akhil Indurti
 1. Akiva Leffert
 1. Alain Y. Meza H. (Planner App)
@@ -2601,5 +2602,4 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Zander Brown (GNOME and more)
 1. Zeltzin Rodríguez
 1. Zvi Gilboa
-1. Ahmed Bilal
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
