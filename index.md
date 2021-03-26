@@ -150,7 +150,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Advaith Madhukar
 1. Afraz Khan (@mrafrazkhan)
 1. Agatha Rose
-1. Ahmed
+1. Ahmed Bilal
 1. Akhil Indurti
 1. Akiva Leffert
 1. Alain Y. Meza H. (Planner App)
